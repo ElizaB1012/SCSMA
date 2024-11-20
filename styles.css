@@ -75,7 +75,7 @@ body {
   /* Styles the background image with white text */
   .wrapper {
     background-color: #418FDE;  /* In case the image doesn't load, there is a blue background so white text is readable */
-    background-image: url("SCSMA/images/somali_coast.png");
+    background-image: url("images/somali_coast.png");
     background-size: cover;
     justify-content: center;
     color:#fff;
